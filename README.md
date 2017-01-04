@@ -13,7 +13,6 @@ The code provides a communication channel for the attacker and infected client. 
 - POP3_PORT = 995
 - POP3_ADDR = 'jassnovember30@gmail.com'
 - POP3_PASS = '30Jass11'
-
 - SMTP_MAIL_IP = 'smtp.gmail.com'
 - SMTP_PORT = 587
 - SMTP_TO_ADDR = 'userdf783@mailtransition.com'
