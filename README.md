@@ -25,5 +25,5 @@ The code provides a communication channel for the attacker and infected client. 
 
 **The code is completely left as found on the original server, including the log files.**
 
-ESET has the complete source code of XAgent, read their report here:
+**ESET** has the complete source code of XAgent, read their report here:
 http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part-2.pdf
