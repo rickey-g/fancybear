@@ -6,7 +6,7 @@ The code provides a communication channel for the attacker and infected client. 
 - Comments are in english, with a lot of grammar mistakes
 - Subject of an email is: '**piradi nomeri**'. This is Georgian language
 - It saves files with **dataluri_**timetsamp.dat. 'Dataluri' is also Georgian for "details".
-- In the email body it uses the word: "**gamarjoba**". Meaning 'Hello' in Russian and Georgian.
+- In the email body it uses the word: "**gamarjoba**". Meaning 'Hello' in Georgian.
 
 ### These are the Gmail account details used, I've verified they once worked (but not anymore!)
 - POP3_MAIL_IP = 'pop.gmail.com'  
